@@ -1,3 +1,3 @@
-import Money from "./lib/odd-money";
+import Money from "./lib/odd-money.js";
 
 export default Money;
